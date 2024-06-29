@@ -6,7 +6,7 @@ import { SiLeetcode } from "react-icons/si";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
+
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
