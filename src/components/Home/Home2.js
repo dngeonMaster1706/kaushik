@@ -38,7 +38,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I enjoy leveraging  <b className="purple">Node.js and modern JavaScript libraries and frameworks like React.js and Next.js </b> and to create impactful products that push technological boundaries.
+              I enjoy leveraging  <b className="purple" href=""><a href="https://github.com/nodejs/node" className="text-decoratione-none">Node.js </a></b><b className="purple" href="/">  and modern JavaScript libraries and frameworks like <a href="https://github.com/reactjs/react.dev">React.js</a> and <a href="https://nextjs.org/docs">Next.js</a> </b> and to create impactful products that push technological boundaries.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

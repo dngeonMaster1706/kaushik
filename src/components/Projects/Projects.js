@@ -21,6 +21,18 @@ function Projects() {
           Here are a few projects.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={obess}
+              isBlog={false}
+              title="FitCheck"
+              description="FitCheck,a decision tree-based machine learning model to predict weight levels based on BMI,location. It also included advising users on personalized calorie intake and creating a calorie calculator app using Google's Gemini Pro Vision model for food image analysis."
+              ghLink="https://github.com/Shrey0207/fitcheck"
+              
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blogverse}
@@ -46,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={curr}
               isBlog={false}
-              title="Curreny2Currency"
+              title="Currency2Currency"
               description="Curreny2Currency is a user-friendly tool that provides real-time exchange rate information, making it easy to convert between different currencies. It's designed to help users stay updated on global financial trends and make informed decisions while traveling or trading."
               ghLink="https://github.com/kaushikborah1706/Currency-Converter"
-              demoLink="/"              
+                          
             />
           </Col>
 
@@ -64,16 +76,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={obess}
-              isBlog={false}
-              title="FitCheck"
-              description="FitCheck,a decision tree-based machine learning model to predict weight levels based on BMI,location. It also included advising users on personalized calorie intake and creating a calorie calculator app using Google's Gemini Pro Vision model for food image analysis."
-              ghLink="https://github.com/Shrey0207/fitcheck"
-              
-            />
-          </Col>
+
 
          
         </Row>
