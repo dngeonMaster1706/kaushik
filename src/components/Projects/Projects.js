@@ -27,7 +27,7 @@ function Projects() {
               imgPath={obess}
               isBlog={false}
               title="FitCheck"
-              description="FitCheck , a decision tree-based machine learning model to predict weight levels based on BMI,location. It also included advising users on personalized calorie intake and creating a calorie calculator app using Google's Gemini Pro Vision model for food image analysis."
+              description="FitCheck is a decision tree-based machine learning model to predict weight levels based on BMI,location. It also included advising users on personalized calorie intake and creating a calorie calculator app using Google's Gemini Pro Vision model for food image analysis."
               ghLink="https://github.com/Shrey0207/fitcheck"
               
             />
