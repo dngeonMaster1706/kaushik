@@ -36,9 +36,9 @@ Technologies used in the project:
 
 *   React
 *   JavaScript
-*   Tailwind CSS
+*   Bootstrap CSS
 *   Particle JS
 
 <h2>💖Like my work?</h2>
 
-Do give it a Star
+Do give it a ⭐ 
